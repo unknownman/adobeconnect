@@ -1,4 +1,6 @@
-$Id: README.txt,v 1.7 2011/01/03 16:54:40 adelamarre Exp $
+ُThis is an update for adobe connect module for moodle that has developed from Akinsaya Delamarre source.
+in this update you have assignee report in adobe connect view page of each activity
+if you have question keep in touch Ali Masoudi ali.masoudi.alavi[inside]gm@il
 
 ABOUT THIS ACTIVITY MODULE
 =========================================
